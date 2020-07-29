@@ -36,7 +36,6 @@ function getData(e) {
     ui.clearInput();
 
     e.preventDefault();
-
 }
 
 function clearAllSearched() {
